@@ -1,0 +1,9 @@
+{
+  "images": {
+    "ship": "/src/assets/ship.png",
+    "asteroid": "/src/assets/asteroid.png"
+  },
+  "audio": {
+    "laser": "/src/assets/laser.mp3"
+  }
+}
